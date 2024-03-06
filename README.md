@@ -16,7 +16,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![Java](https://img.shields.io/badge/JAVA-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117)
-![blog](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![blog](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=0D1117)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
